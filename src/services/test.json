@@ -1,0 +1,50 @@
+{
+    "results": [
+        {
+            "gender": "female",
+            "name": { "title": "Ms", "first": "Amber", "last": "Wade" },
+            "location": {
+                "street": { "number": 9789, "name": "The Green" },
+                "city": "Passage West",
+                "state": "Sligo",
+                "country": "Ireland",
+                "postcode": 53582,
+                "coordinates": {
+                    "latitude": "17.1330",
+                    "longitude": "68.2227"
+                },
+                "timezone": {
+                    "offset": "+10:00",
+                    "description": "Eastern Australia, Guam, Vladivostok"
+                }
+            },
+            "email": "amber.wade@example.com",
+            "login": {
+                "uuid": "0efffebc-72e7-47f4-80b7-c9e6897429e4",
+                "username": "heavyrabbit623",
+                "password": "ranger",
+                "salt": "k6BD8spd",
+                "md5": "0d534058ec03f70fd0d7e753dc9c93fa",
+                "sha1": "60272ac61d38d2751e7254e0f93eafed26aff0d6",
+                "sha256": "a88b3f2af9378a3e87a9fa5a20f3628e5982c2c46018f97a7dcf1c9683b1c5a9"
+            },
+            "dob": { "date": "1994-12-19T20:52:10.101Z", "age": 28 },
+            "registered": { "date": "2008-12-20T13:23:50.541Z", "age": 14 },
+            "phone": "051-421-5927",
+            "cell": "081-173-3694",
+            "id": { "name": "PPS", "value": "0782939T" },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/54.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/54.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/54.jpg"
+            },
+            "nat": "IE"
+        }
+    ],
+    "info": {
+        "seed": "1f68c56ff95dfc90",
+        "results": 1,
+        "page": 1,
+        "version": "1.3"
+    }
+}
