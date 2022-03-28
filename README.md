@@ -18,9 +18,9 @@ You may also see any lint errors in the console.
 
 To run in development environment.
 
-### `npm run eject`
+### `npm run start:prod`
 
-To run in development environment.
+To run in production environment.
 
 ### `npm test`
 
