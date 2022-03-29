@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 //seed for fetch the same data
 //page for paging option
 //results for data size
